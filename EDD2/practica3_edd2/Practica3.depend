@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1429608814 source:c:\users\usuario\desktop\practica3_edd2\usuariop3.cpp
+	<cstdlib>
+	<iostream>
+	"cartelera.h"
+
+1398335010 c:\users\usuario\desktop\practica3_edd2\cartelera.h
+	<map>
+	<utility>
+	<string>
+
+1430306807 source:c:\users\usuario\desktop\practica3_edd2\cartelera.cpp
+	"cartelera.h"
+	<iostream>
+
+1429608814 source:f:\edd2\practica3_edd2\usuariop3.cpp
+	<cstdlib>
+	<iostream>
+	"cartelera.h"
+
+1398335010 f:\edd2\practica3_edd2\cartelera.h
+	<map>
+	<utility>
+	<string>
+
+1430917364 source:f:\edd2\practica3_edd2\cartelera.cpp
+	"cartelera.h"
+	<iostream>
+

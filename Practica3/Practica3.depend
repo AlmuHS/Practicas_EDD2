@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1399277340 source:/home/almu/Practica3/cartelera.cpp
+	"cartelera.h"
+
+1399272397 /home/almu/Practica3/cartelera.h
+	<iostream>
+	<map>
+	<utility>
+	<string>
+
+1399277459 source:/home/almu/Practica3/UsuarioP3.cpp
+	<cstdlib>
+	<iostream>
+	"cartelera.h"
+

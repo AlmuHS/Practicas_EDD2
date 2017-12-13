@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="Proyecto1" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add option="abb.o" />
+			<Add option="arbin.o" />
+			<Add option="lista.o" />
+			<Add option="nodo.o" />
+			<Add option="nodoB.o" />
+			<Add option="termino.o" />
+		</Linker>
+		<Unit filename="abb.h" />
+		<Unit filename="arbin.h" />
+		<Unit filename="excep_abb.h" />
+		<Unit filename="excep_arbin.h" />
+		<Unit filename="excep_lista.h" />
+		<Unit filename="excepcion.h" />
+		<Unit filename="indice.cpp" />
+		<Unit filename="indice.h" />
+		<Unit filename="lista.h" />
+		<Unit filename="nodo.h" />
+		<Unit filename="nodoB.h" />
+		<Unit filename="practica2.cpp" />
+		<Unit filename="termino.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

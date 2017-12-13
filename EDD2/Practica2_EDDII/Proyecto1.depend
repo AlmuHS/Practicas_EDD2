@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1331894252 source:/media/almu/D0A6-2E60/Practica2_EDDII/indice.cpp
+	"indice.h"
+	<iostream>
+
+1331889000 /media/almu/D0A6-2E60/Practica2_EDDII/indice.h
+	<string>
+	"termino.h"
+	"abb.h"
+
+1331888644 /media/almu/D0A6-2E60/Practica2_EDDII/termino.h
+	<string>
+	"lista.h"
+
+1331760950 /media/almu/D0A6-2E60/Practica2_EDDII/lista.h
+	"nodo.h"
+	"excep_lista.h"
+
+1331760950 /media/almu/D0A6-2E60/Practica2_EDDII/nodo.h
+
+1115585228 /media/almu/D0A6-2E60/Practica2_EDDII/excep_lista.h
+	"excepcion.h"
+
+1331037254 /media/almu/D0A6-2E60/Practica2_EDDII/excepcion.h
+	<string>
+	<stdexcept>
+
+1331888804 /media/almu/D0A6-2E60/Practica2_EDDII/abb.h
+	"nodoB.h"
+	"excep_abb.h"
+	"arbin.h"
+
+1144357856 /media/almu/D0A6-2E60/Practica2_EDDII/nodoB.h
+	<stdlib.h>
+
+1331892184 /media/almu/D0A6-2E60/Practica2_EDDII/excep_abb.h
+	"excepcion.h"
+
+1363091698 /media/almu/D0A6-2E60/Practica2_EDDII/arbin.h
+	"nodoB.h"
+	"excep_arbin.h"
+
+1331892184 /media/almu/D0A6-2E60/Practica2_EDDII/excep_arbin.h
+	"excepcion.h"
+
+1426678248 source:/media/almu/D0A6-2E60/Practica2_EDDII/practica2.cpp
+	<iostream>
+	<cstdlib>
+	<queue>
+	"arbin.h"
+	"abb.h"
+	"indice.h"
+

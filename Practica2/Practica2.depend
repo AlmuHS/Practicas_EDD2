@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1396250696 source:/home/almu/Practica2/practica2.cpp
+	<iostream>
+	<cstdlib>
+	<queue>
+	"arbin.h"
+	"abb.h"
+	"indice.h"
+
+1395044169 /home/almu/Practica2/arbin.h
+	"nodoB.h"
+	"excep_arbin.h"
+
+1144354256 /home/almu/Practica2/nodoB.h
+	<stdlib.h>
+
+1331892184 /home/almu/Practica2/excep_arbin.h
+	"excepcion.h"
+
+1331037254 /home/almu/Practica2/excepcion.h
+	<string>
+	<stdexcept>
+
+1331888804 /home/almu/Practica2/abb.h
+	"nodoB.h"
+	"excep_abb.h"
+	"arbin.h"
+
+1331892184 /home/almu/Practica2/excep_abb.h
+	"excepcion.h"
+
+1331889000 /home/almu/Practica2/indice.h
+	<string>
+	"termino.h"
+	"abb.h"
+
+1331888644 /home/almu/Practica2/termino.h
+	<string>
+	"lista.h"
+
+1331760950 /home/almu/Practica2/lista.h
+	"nodo.h"
+	"excep_lista.h"
+
+1331760950 /home/almu/Practica2/nodo.h
+
+1115581628 /home/almu/Practica2/excep_lista.h
+	"excepcion.h"
+
