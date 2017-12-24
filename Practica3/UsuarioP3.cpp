@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <iostream>
-# include "cartelera.h"
+#include "cartelera.h"
 
 using namespace std;
 
